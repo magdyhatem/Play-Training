@@ -50,7 +50,6 @@ class GetStarted extends StatelessWidget {
                       backgroundImage: AssetImage('assets/images/Ellipse 57.png'),
                       backgroundColor: Colors.white,
                       radius: 90,
-                      //magdy
                     ),
                   ],
                 ),
